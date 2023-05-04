@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 6940ce00237ecb84b9615087c16b06ba
+  - enabled: 1
+    path: Assets/Scenes/IntroCutScene.unity
+    guid: 5c3e854594d118148b3ae11be9c7d2b3
+  - enabled: 1
+    path: Assets/Scenes/IntroLevel.unity
+    guid: 3c3483aeb2cd1874791c8e3a9ae7e6e8
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: 51db6205a9e127049acc54c70d5cac31
+  - enabled: 1
+    path: Assets/Scenes/Intro3.unity
+    guid: d4e5bd23b15e4a143909bf9ba53d240a
+  - enabled: 1
+    path: Assets/Scenes/Intro4.unity
+    guid: faa6c417c971e274e97f2b5e6252662b
+  - enabled: 1
+    path: Assets/Scenes/Intro5.unity
+    guid: 7213622cc5141ed479f40b410cd2b043
+  - enabled: 1
+    path: Assets/Scenes/IceAreaCutscene.unity
+    guid: 2e52752abf20a0a4f869db8fb23bea76
+  - enabled: 1
+    path: Assets/Scenes/SecondArea1.unity
+    guid: efb064b65bed9b74faad1715a489ee2d
+  - enabled: 1
+    path: Assets/Scenes/SecondArea2.unity
+    guid: 7101879e36261d449bd74fc17e728151
+  - enabled: 1
+    path: Assets/Scenes/SecondArea3.unity
+    guid: cf86c71c8422c0045be2d2798c22e201
+  - enabled: 1
+    path: Assets/Scenes/SecondArea4.unity
+    guid: 47769ae3333eda04da52ed2958a940b6
+  - enabled: 1
+    path: Assets/Scenes/SecondArea5.unity
+    guid: bdfb6318ef258e74c9628bc59e350b30
+  - enabled: 1
+    path: Assets/Scenes/FinalAreaCutscene.unity
+    guid: 8ca8e3c23d8d4f14aa2236a97f7fd4be
+  - enabled: 1
+    path: Assets/Scenes/FinalArea1.unity
+    guid: 44a303161ff478c40995a0998f676de1
+  - enabled: 1
+    path: Assets/Scenes/FinalArea2.unity
+    guid: c610762c008e76141abcc11d18a67172
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: b777390a33982344aa66b0a6373bedc3
+  m_configObjects: {}
